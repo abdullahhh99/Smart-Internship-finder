@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "867550611714",
+    "project_id": "smart-internship-finder-c6d5d",
+    "storage_bucket": "smart-internship-finder-c6d5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867550611714:android:980ef67be68cb9eeb9da1b",
+        "android_client_info": {
+          "package_name": "com.example.smart_internship_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867550611714-21lace6n1c0i2h6pqldfno0eubbilk1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_internship_finder",
+            "certificate_hash": "97cd81b3afb6fa6315f08a221960145bf3f28bfa"
+          }
+        },
+        {
+          "client_id": "867550611714-8g19o7lv0vjb597ai3bke2h1mq64ml13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXkm-ISHWyBzPcxaOh7B9_amTkMY-I-R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867550611714-8g19o7lv0vjb597ai3bke2h1mq64ml13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
